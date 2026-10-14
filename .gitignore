@@ -1,0 +1,6 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+sample_data/
+sample_seed.py
